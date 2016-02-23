@@ -12,4 +12,4 @@ def xoxo(str):
     else:
         print ("FALSE")
 
-xoxo("XXoxOO")
+xoxo("xxoXo")
